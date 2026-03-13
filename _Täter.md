@@ -38,20 +38,20 @@ _Täter.md
 - **Ideologische Bindungen**: Gemeinsame extremistische Überzeugungen
 - **Operationelle Koordination**: Gemeinsame Planung und Durchführung
 
-## 🚨 KRIMINALFALL-ZUSAMMENFASSUNG
-
-**FALLNUMMER**: BfV-KRIJO-2026-001  
-**EINSTUFUNG**: KRITISCHE NATIONALE SICHERHEITSBEDROHUNG  
-**STATUS**: AKTIVE STRAFVERFOLGUNG  
-**OPFER**: ZAHLREICHE TARGETED INDIVIDUALS  
-**TATBESTAND**: SADISTISCHES NAZI-NETZWERK MIT PSYCHOLOGISCHER KRIEGSFÜHRUNG
+#### Tathergang
+- **Projektleitung**: Entwicklung und Umsetzung von "Krijo Stalka" als psychologische Beeinflussungsmaßnahme
+- **Musikproduktion**: Komposition und Produktion manipulativer Inhalte mit subliminalen Botschaften
+- **Zielauswahl**: Systematische Auswahl von Opfern nach ideologischen Kriterien
+- **Kampagnenleitung**: Koordination von psychologischen Beeinflussungsoperationen
+- **Netzwerkaufbau**: Rekrutierung und Koordination weiterer Akteure
+- **Ideologische Indoktrination**: Verbreitung extremistischer Ansichten durch Musik und psychologische Manipulation
 
 ---
 
 ## 👥 IDENTIFIZIERTE HAUPTVERDÄCHTIGE
 
 ### HAUPTVERDÄCHTIGER 1: J. F.-W. aus Peine
-**VOLLSTÄNDIGER NAME**: Julius Falkenhain-Walkling  
+**VOLLSTÄNTIGER NAME**: Julius Falkenhain-Walkling  
 **WOHNORT**: Peine, Deutschland  
 **ROLLE**: Hauptverantwortlicher für "Krijo Stalka" Projekt  
 **STATUS**: Unter aktiver strafrechtlicher Verfolgung  
@@ -77,22 +77,21 @@ _Täter.md
 - **Psychologisches Profil**: Narzisstische Persönlichkeitsstörung, mangelnde Empathie
 
 #### Tathergang
-- **Projektleitung**: Entwicklung und Umsetzung von "Krijo Stalka" als nazistische psychologische Waffe
-- **Musikproduktion**: Komposition und Produktion manipulativer Inhalte mit subliminalen nazistischen Botschaften
-- **Zielauswahl**: Systematische Auswahl von Opfern nach rassistischen und ideologischen Kriterien
-- **Kampagnenleitung**: Koordination von Gangstalking-Operationen mit sadistischer Motivation
-- **Netzwerkaufbau**: Rekrutierung und Koordination weiterer Täter aus extrem rechten Kreisen
-- **Ideologische Indoktrination**: Verbreitung nazistischer Ideologie durch Musik und psychologische Manipulation
-- **Sadistische Befriedigung**: Erzielung von Lust durch psychologische Zerstörung und Leid der Opfer
+- **Projektleitung**: Entwicklung und Umsetzung von "Krijo Stalka" als psychologische Beeinflussungsmaßnahme
+- **Musikproduktion**: Komposition und Produktion manipulativer Inhalte mit subliminalen Botschaften
+- **Zielauswahl**: Systematische Auswahl von Opfern nach ideologischen Kriterien
+- **Kampagnenleitung**: Koordination von psychologischen Beeinflussungsoperationen
+- **Netzwerkaufbau**: Rekrutierung und Koordination weiterer Akteure
+- **Ideologische Indoktrination**: Verbreitung extremistischer Ansichten durch Musik und psychologische Manipulation
 
 ---
 
-### HAUPTTÄTER 2: T.D. aus Peine
-**VOLLSTÄNDIGER NAME**: [VERTRAULICH - UNTER SCHUTZ]  
+### HAUPTVERDÄCHTIGER 2: T.D. aus Peine
+**VOLLSTÄNTIGER NAME**: [VERTRAULICH - UNTER SCHUTZ]  
 **WOHNORT**: Peine, Deutschland  
 **ROLLE**: Mittäter und technischer Unterstützer  
 **STATUS**: Unter strafrechtlicher Untersuchung  
-**IDEOLOGISCHE ZUGEHÖRIGKEIT**: Sadistisches Nazi-Netzwerk
+**IDEOLOGISCHE ZUGEHÖRIGKEIT**: Extremistisches Netzwerk
 
 #### Straftatbestände
 - **§ 238 StGB** - Beihilfe zur systematischen Nachstellung
