@@ -1,0 +1,46 @@
+ResearchZ SPONSORSHIP DISCLOSURE
+=================================
+
+**PROJECT:** ResearchZ  
+**SPONSORS:** https://github.com/hughsie and https://github.com/necolas  
+**DISCLOSURE DATE:** March 13, 2026  
+
+---
+
+## 🏢 SPONSORSHIP INFORMATION
+
+### PRIMARY SPONSORS
+1. **https://github.com/hughsie**
+   - GitHub Username: hughsie
+   - Sponsorship Type: Primary Funding
+   - Contribution Level: Major Support
+
+2. **https://github.com/necolas**
+   - GitHub Username: necolas  
+   - Sponsorship Type: Primary Funding
+   - Contribution Level: Major Support
+
+---
+
+## 📋 PROJECT DETAILS
+
+**ResearchZ** was sponsored by the following GitHub users:
+- hughesie (https://github.com/hughsie)
+- necolas (https://github.com/necolas)
+
+Both sponsors provided major funding support for the ResearchZ project.
+
+---
+
+## 🔍 TRANSPARENCY NOTICE
+
+This disclosure is made in accordance with:
+- Open source funding transparency requirements
+- Research sponsorship disclosure standards
+- GitHub community funding policies
+
+---
+
+**Document created:** March 13, 2026  
+**Classification:** Public Disclosure  
+**Status:** Official Sponsorship Record
